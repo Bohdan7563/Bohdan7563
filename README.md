@@ -1,66 +1,47 @@
+<div align="center">
 
-<h1 align="center">BOHDAN7563</h1>
+# BOHDAN7563
 
-<p align="center">
-  <code>root@bohdan:~$ whoami</code>
-</p>
+**Software Engineering · Linux · Development**
 
-<p align="center">
-  <b>Software Engineering Student | Linux Enthusiast | Developer</b>
-</p>
+[GitHub](https://github.com/Bohdan7563)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/FEDORA-LINUX-39FF14?style=for-the-badge&logo=fedora&logoColor=black">
-  <img src="https://img.shields.io/badge/SHELL-BASH-39FF14?style=for-the-badge&logo=gnubash&logoColor=black">
-  <img src="https://img.shields.io/badge/STATUS-ONLINE-39FF14?style=for-the-badge">
-</p>
+</div>
 
 ---
 
-### `> whoami`
+### About
 
-```bash
-Name:       Bohdan
-Role:       Software Engineering Student
-OS:         Fedora Linux
-Interests:  Linux, Programming, Automation
-Focus:      Software Development
-Status:     Always learning
-```
+Software Engineering student interested in systems, programming and automation.
 
-### `> tech_stack`
+Currently exploring Linux, software development and modern technologies.
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,bash,git,github,cpp,java,python,mysql" />
+### Environment
+
+| Component | Technology |
+|:--|:--|
+| Operating System | Fedora Linux |
+| Shell | Bash |
+| Version Control | Git |
+| Editor | VS Code |
+| Main Interests | Software Engineering, Linux, Automation |
+
+### Technologies
+
+<p>
+<img src="https://skillicons.dev/icons?i=linux,bash,git,github,cpp,java,python,mysql" />
 </p>
 
-### `> current_environment`
+### Projects
 
-```bash
-$ uname -o
-GNU/Linux
+Explore my repositories:
 
-$ echo $SHELL
-/bin/bash
-
-$ whoami
-bohdan7563
-
-$ _
-```
-
-### `> github_stats`
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bohdan7563&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bohdan7563&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117" />
-</p>
+[github.com/Bohdan7563](https://github.com/Bohdan7563)
 
 ---
 
-<p align="center">
-  <code>ACCESS GRANTED // END OF TRANSMISSION</code>
-</p>
+<div align="center">
+
+*Building. Learning. Improving.*
+
+</div>
